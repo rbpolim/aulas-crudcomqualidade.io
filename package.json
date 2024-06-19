@@ -4,9 +4,13 @@
   "description": "Projeto criando um CRUD com qualidade",
   "main": "index.js",
   "scripts": {
-    "dev": "node ./crud/crud.js"
+    "start": "node ./core/crud.js",
+    "dev": "nodemon ./core/crud.js"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.3"
+  }
 }

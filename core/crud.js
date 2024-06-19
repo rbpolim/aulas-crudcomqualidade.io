@@ -9,4 +9,4 @@ function create(content) {
   return content
 }
 
-create("Hoje eu preciso gravar aulas!")
+create("Salve!")
