@@ -1,0 +1,12 @@
+{
+  "name": "aulas-crudcomqualidade.io",
+  "version": "1.0.0",
+  "description": "Projeto criando um CRUD com qualidade",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node ./crud/crud.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
